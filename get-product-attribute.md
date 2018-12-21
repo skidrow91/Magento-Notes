@@ -1,4 +1,4 @@
-# How to get product attribute in magento 2
+# How to get product attribute value in magento 2
 
 To get attribute value of product with store_id is 0, we can:
 
